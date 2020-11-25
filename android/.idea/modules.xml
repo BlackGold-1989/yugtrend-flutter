@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1240377428/android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1240377428/android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1786341780/android.flutter_money_formatter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1786341780/android.flutter_money_formatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1837922337/android.flutter_web_browser.iml" filepath="$PROJECT_DIR$/.idea/modules/1837922337/android.flutter_web_browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-182251190/android.package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-182251190/android.package_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-770066425/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-770066425/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-640312047/android.razorpay_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-640312047/android.razorpay_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2025113474/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/2025113474/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/401176219/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/401176219/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1957741847/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1957741847/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/717688232/android.woosignal_stripe.iml" filepath="$PROJECT_DIR$/.idea/modules/717688232/android.woosignal_stripe.iml" />
+    </modules>
+  </component>
+</project>
